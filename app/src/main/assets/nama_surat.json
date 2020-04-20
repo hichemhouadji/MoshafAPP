@@ -1,0 +1,14 @@
+[
+	{
+		"idSurah":"1",
+		"namaSurat":"Al-Fatihah",
+		"jumAyat": 7,
+		"jenisSurat": "Makiyyah"
+	},
+	{
+		"idSurah":"2",
+		"namaSurat":"Al-Bakarah",
+		"jumAyat": 286,
+		"jenisSurat": "Makiyyah"
+	}
+]
